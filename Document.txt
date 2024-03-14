@@ -1,0 +1,10 @@
+1. Create a folder name Chat_app
+2. Inside I created models and public folder
+3. using npm init command to create a file package.json and node modules
+4. Install express , mongoose and socket 
+5. create index.html file inside public folder
+6.create message.js file inside models folder
+7.create app.js file inside project folder
+8.In mongodb atlas create cluster and connect chat_app
+9.copy the path and password paste in app.js file.
+10. Run the app.js file in terminal
